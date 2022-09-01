@@ -3,7 +3,9 @@ title        = "Quantum Garbage"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-
+[module]
+  [module.imports]
+    path = 'https://github.com/rhazdon/hello-friend-ng'
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
