@@ -25,11 +25,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   keywords = "homepage, blog"
   images = [""]
 
-  [params.portrait]
-    path     = "duckmode.jpg"
-    alt      = "Me and My Duck"
-    maxWidth = "120px"
-
 [author]
   name = "F.M. Bellomy"
 
@@ -58,9 +53,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     ]
 
     [languages.en.params.logo]
-      logoMark = ">"
+      logoMark = "$"
       logoText = "quantumgarbage"
       logoHomeLink = "/"
+      logoCursorDisabled = "true"
     # or
     #
     # path = "/img/your-example-logo.svg"
