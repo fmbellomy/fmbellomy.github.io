@@ -24,6 +24,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   description = "A CS Student's blog."
   keywords = "homepage, blog"
   images = [""]
+
+  [params.portrait]
+    path     = "duckmode.jpg"
+    alt      = "Me and My Duck"
+    maxWidth = "50px"
+
 [author]
   name = "FM Bellomy"
 
