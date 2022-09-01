@@ -40,8 +40,17 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
+[[params.social]]
+  name = "email"
+  url = "mailto:fmbellomy@quantumgarbage.com"
+[[params.social]]  
+  name = "reddit"
+  url = "https://www.reddit.com/u/fmbellomy"
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/fmbellomy"
 
-  [params.footer]
+[params.footer]
     trademark = true
     rss = false
     copyright = true
