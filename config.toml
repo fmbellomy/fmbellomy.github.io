@@ -28,7 +28,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   [params.portrait]
     path     = "duckmode.jpg"
     alt      = "Me and My Duck"
-    maxWidth = "50px"
+    maxWidth = "120px"
 
 [author]
   name = "F.M. Bellomy"
