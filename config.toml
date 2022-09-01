@@ -21,7 +21,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "A CS Student's blog."
+  description = "A CS Student's site for putrid nonsense."
   keywords = "homepage, blog"
   images = [""]
 
