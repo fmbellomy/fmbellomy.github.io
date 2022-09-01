@@ -10,4 +10,4 @@ I'm currently studying Computer Science at the University of Texas at Arlington,
 
 Outside of Computer Science, I also play keys for [Black Market Garden](https://www.facebook.com/MartianOTROfficial)
 
-This website is primarily intended to serve as a blog of general things in my life, but may also prove useful to some as a study resource for the programming courses at UTA or another university. 
+This website is primarily intended to serve as a blog of general things in my life, but may also prove useful to some as a study resource for the programming courses at UTA or another university.

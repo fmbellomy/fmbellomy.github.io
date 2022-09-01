@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
-    <head>
-        {{ partial "head.html" . }}
-    </head>
 
-    {{ block "body" . }}
-        <body>
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+{{ block "body" . }}
+
+<body>
     {{ end }}
-    
-        <div class="container">
-            {{ partial "header.html" . }}
 
-            <div class="content">
-                {{ block "main" . }}{{ end }}
-            </div>
+    <div class="container">
+        {{ partial "header.html" . }}
 
-            {{ block "footer" . }}
-                {{ partial "footer.html" . }}
-            {{ end }}
+        <div class="content">
+            {{ block "main" . }}{{ end }}
         </div>
 
-        {{ partial "javascript.html" . }}
-    </body>
+        {{ block "footer" . }}
+        {{ partial "footer.html" . }}
+        {{ end }}
+    </div>
+
+    {{ partial "javascript.html" . }}
+</body>
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+
 </html>
