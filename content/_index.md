@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-08-31T18:36:25-05:00
-draft: true
+draft: false
 ---
 
 I'm [@fmbellomy](https://github.com/fmbellomy), and this is my personal site. Blog? Whatever.
