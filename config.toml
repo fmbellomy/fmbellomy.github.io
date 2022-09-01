@@ -3,8 +3,6 @@ title        = "Quantum Garbage"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-
-publishDir = "../fmbellomy.github.io"
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
