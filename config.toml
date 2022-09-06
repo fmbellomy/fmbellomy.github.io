@@ -73,9 +73,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts/directory"
   [[menu.main]]
     identifier = "about"
     name       = "About"

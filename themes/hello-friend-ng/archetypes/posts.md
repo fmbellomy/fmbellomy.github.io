@@ -5,6 +5,7 @@ draft: true
 toc: false
 katex: false
 images:
+readingtime: true
 tags:
   - untagged
 ---

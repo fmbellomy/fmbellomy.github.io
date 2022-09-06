@@ -3,6 +3,7 @@ title: "Intro to Pointers"
 date: 2022-08-31T18:47:49-05:00
 draft: false
 toc: false
+readingtime: true
 images:
 tags:
   - "1320"
